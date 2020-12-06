@@ -1,0 +1,7 @@
+Initial plan:
+
+Class types: God
+Attributes:
+- Main powers
+- Association i.e. Olympus, Gods
+- Key myths and attibutes that they are a part of
